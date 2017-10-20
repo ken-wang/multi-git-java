@@ -1,1 +1,1 @@
-java -cp ~/backend/gvn.jar gvn.Executor git svn dcommit
+java -jar git svn dcommit

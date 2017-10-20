@@ -1,4 +1,4 @@
-package gvn.exception;
+package exception;
 
 public class GitCommandErrorException extends RuntimeException {
 

@@ -1,1 +1,1 @@
-java -cp ~/backend/gvn.jar gvn.Executor git svn rebase 
+java -jar git svn rebase 
